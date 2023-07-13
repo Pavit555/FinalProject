@@ -7,7 +7,7 @@ const Navbar = () => {
         <>
             <Nav>
                 <NavMenu>
-                    <NavLink to="https://weather-app-lake-iota.vercel.app/" activeStyle>
+                    <NavLink to="https://final-project-seven-rho.vercel.app/" activeStyle>
                         Home
                     </NavLink>
                     <NavLink to="https://books-with-hooks-app.vercel.app/" activeStyle>
